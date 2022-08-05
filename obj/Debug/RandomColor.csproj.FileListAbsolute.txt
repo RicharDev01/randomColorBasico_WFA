@@ -1,0 +1,10 @@
+C:\Development\BackEnd\C#_Projects\RandomColor\obj\Debug\RandomColor.csproj.AssemblyReference.cache
+C:\Development\BackEnd\C#_Projects\RandomColor\obj\Debug\RandomColor.ColorPicker.resources
+C:\Development\BackEnd\C#_Projects\RandomColor\obj\Debug\RandomColor.Properties.Resources.resources
+C:\Development\BackEnd\C#_Projects\RandomColor\obj\Debug\RandomColor.csproj.GenerateResource.cache
+C:\Development\BackEnd\C#_Projects\RandomColor\obj\Debug\RandomColor.csproj.CoreCompileInputs.cache
+C:\Development\BackEnd\C#_Projects\RandomColor\bin\Debug\RandomColor.exe.config
+C:\Development\BackEnd\C#_Projects\RandomColor\bin\Debug\RandomColor.exe
+C:\Development\BackEnd\C#_Projects\RandomColor\bin\Debug\RandomColor.pdb
+C:\Development\BackEnd\C#_Projects\RandomColor\obj\Debug\RandomColor.exe
+C:\Development\BackEnd\C#_Projects\RandomColor\obj\Debug\RandomColor.pdb
